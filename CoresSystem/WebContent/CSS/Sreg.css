@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+h2 {
+	width: 30%;
+	font-family: 'YouYuan';
+	margin: auto;
+	font-size: 40px;
+	text-shadow: 1px 1px 3px #000;
+	padding: 10px 0;
+	color: #FFF;
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 30px;
+	font-weight: bolder;
+}
+body {
+	background-color: #8CC4DA;
+}
+.over {
+	background-image: url("back.png");
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+input[type="text"],input[type="password"] {
+	width: 80%;
+	margin: auto;
+	height: 30px;
+	border: 2px solid cornflowerblue;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+	line-height: 30px;
+}
+#radioCheck {
+	padding-bottom: 20px;
+}
+input[type="reset"],input[type="button"],input[type="submit"] {
+	width: 150px;
+	height: 30px;
+	color: white;
+	font-weight: bold;
+	border: none;
+	border-radius: 7px;
+	margin-bottom: 10px;
+}
+
+input[type="reset"] {
+	background-color: #FED01C;
+}
+
+input[type="button"] {
+	background-color: #659DFF;
+}
+
+input[type="submit"] {
+	background-color: #659DFF;
+}
+td {
+	text-align: center;
+}

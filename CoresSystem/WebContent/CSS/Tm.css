@@ -1,0 +1,41 @@
+
+ 
+#nav ul {
+Width:1000px;    
+height:40px;      
+margin:30px auto;
+padding:0;
+list-style:none; 
+border-top:solid 5px #DAA520;    
+border-bottom:solid 5px #DAA520; 
+
+}
+body {
+	background-color: #CCDCF9;
+	
+}
+#nav ul li {
+width:199px;
+float:left;
+text-align:center;
+font:16px/2.5 "microsoft yahei";
+}
+#nav ul li a {
+color:#800080; text-decoration:none;
+}
+#nav ul li a:hover {
+display:block; color:#FFFFFF; background:#DC143C;
+}
+h2 {
+	width: 30%;
+	font-family: 'YouYuan';
+	margin: auto;
+	font-size: 50px;
+	text-shadow: 1px 1px 3px #210FB5;
+	padding: 10px 0;
+	color: #FFF;
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 30px;
+	font-weight: bolder;
+}
